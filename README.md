@@ -36,3 +36,48 @@ Welcome to my dMAT preparation repository.
 ## Goal
 
 Achieve a competitive dMAT score for admission to top German public universities.
+
+
+
+## Preparation Areas
+
+## Core Module
+
+### Figure Sequences
+- Rotation patterns
+- Movement patterns
+- Addition and removal
+- Alternation
+- Reflection
+- Shape transformation
+- Combination patterns
+
+### Logical Reasoning
+- Pattern recognition
+- Analytical reasoning
+- Problem solving
+
+### Figure Matrix
+- 2×2 matrix patterns
+- 3×3 matrix patterns
+- Row and column logic
+
+## Practice Method
+
+- Daily practice questions
+- Maintain mistake log
+- Analyse solving methods
+- Improve accuracy and speed
+
+## Progress Tracker
+
+| Date | Topic | Questions | Score |
+|---|---|---|---|
+|25 July 2026|Figure Sequences|20|19/20|
+
+## Learning Approach
+
+- Understand the logic behind every question
+- Practice without external help
+- Record mistakes and improve
+- Build exam confidence
